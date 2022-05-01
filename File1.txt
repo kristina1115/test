@@ -1,4 +1,5 @@
 123
+conflict
 test
 456
 789.
