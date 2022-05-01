@@ -1,5 +1,6 @@
 123
 new testing
+conflict
 test
 456
 789.
